@@ -23,8 +23,7 @@ The **A* Algorithm** was chosen because:
 - **Custom Array List** → Stores visited cells (closed list) efficiently.
 
 ## 🎥 Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5lKiIhQjfo" 
-title="YouTube Video Player" frameborder="0" allowfullscreen></iframe>
+[![Watch the Demo](https://img.youtube.com/vi/r5lKiIhQjfo/maxresdefault.jpg)](https://www.youtube.com/watch?v=r5lKiIhQjfo)
 
 
 ## 🏗 Installation & Setup
