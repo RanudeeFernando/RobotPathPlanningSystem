@@ -22,6 +22,11 @@ The **A* Algorithm** was chosen because:
 - **Custom Linked List** → Manages the open list (priority queue behavior).
 - **Custom Array List** → Stores visited cells (closed list) efficiently.
 
+## 🎥 Demo Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/r5lKiIhQjfo" 
+title="YouTube Video Player" frameborder="0" allowfullscreen></iframe>
+
+
 ## 🏗 Installation & Setup
 ### **Prerequisites**
 - Java installed on your system (JDK 8+ recommended)
