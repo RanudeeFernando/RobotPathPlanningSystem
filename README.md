@@ -12,7 +12,7 @@ This project focuses on programming a robot to navigate a **grid-based environme
 - **Test plans** to ensure functionality
 
 ## 📚 Algorithm Selection: A* Search
-The **A* Algorithm** was chosen because:
+The **A* Algorithm** was chosen because:<br>
 ✔ It **always finds the optimal path** if one exists.  
 ✔ It is more efficient than BFS, DFS, and Dijkstra’s Algorithm.  
 ✔ Uses **Euclidean distance** as the heuristic for cost estimation.  
